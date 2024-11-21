@@ -1,0 +1,17 @@
+/* App.css */
+.app {
+  display: flex;
+}
+.sidebar {
+  width: 250px;
+  height: 100vh;
+}
+.main-content {
+  flex: 1;
+}
+.header {
+  background-color: #d26b2e;
+}
+.dashboard .card {
+  border: none;
+} 
